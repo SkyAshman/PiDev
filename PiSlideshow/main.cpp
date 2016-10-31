@@ -20,7 +20,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-
+    printf("ASDF\n");
     return 0;
 }
 
